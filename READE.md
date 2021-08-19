@@ -1,6 +1,6 @@
 # Project Title
 
-TASK-5 MOOKIT SCRAPING
+**TASK-5 MOOKIT SCRAPING**
 
 ## Description
 
@@ -34,7 +34,7 @@ pip install codecs
 * Inspect the HTML structure of the  targeted  site with your browser’s developer tools
 * Decipher data encoded in URLs
 * Use requests and Beautiful Soup for scraping and parsing data from the Web
-* Build a script that fetches job offers from the Web and displays relevant information in a .csv file
+* Build a script that fetches the required information from the user input and displays relevant  information in * a .csv file
 
 
 
